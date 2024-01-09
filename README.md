@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rasheed-k-mozaffar
-- 👀 I’m interested in .Net web technolgies and tech in general !
-- 🌱 I’m currently learning Asp.Net web framework
+- 👀 I’m interested in .NET web technolgies and everything tech
+- 🌱 I’m currently developing a number of personal projects
 - 📫 How to reach me at rasheedkmozaffar@hotmail.com
 
 <!---
